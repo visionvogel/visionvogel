@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @visionvogel
+# 👋 Hi, I’m @visionvogel (Murat Ersin Agüloglu)
 
 - 👀 I’m interested in software development, travel, and creating engaging content.
 - 🌱 I’m currently learning **HTML**, **CSS**, **JavaScript**, and exploring **Vim**.
