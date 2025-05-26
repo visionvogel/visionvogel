@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on open-source projects, especially in web development and travel tech.
 - 📫 How to reach me: [vvsoft@proton.me](mailto:vvsoft@proton.me) or through [my website](https://visionvogel.de).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’ve traveled to over 15 countries and 50+ cities, and I love integrating travel experiences into tech projects!
+- ⚡ Fun fact: I’ve traveled to over 19 countries and 60+ cities, and I love integrating travel experiences into tech projects!
 
 
 <!---
